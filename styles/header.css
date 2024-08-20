@@ -88,4 +88,7 @@ header {
     .link-container {
         display: none;
     }
+    .navbar {
+        margin: 0 7%;
+    }
 }
