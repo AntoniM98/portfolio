@@ -1,0 +1,52 @@
+html {
+    scroll-behavior: smooth;
+    scroll-padding: 1rem;
+}
+
+body {
+    font-family: Poppins, Arial, sans-serif;
+    margin: 0;
+    padding-top: 130px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+p, h1, h2 {
+    margin: 0;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+section {
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 70px;
+    scroll-margin-top: 60px;
+}
+
+a {
+    color: rgb(30, 30, 30);
+    text-decoration: none;
+    transition: color 0.15s;
+}
+a:hover {
+    color: #ffa300;
+}
+
+fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+@media (max-width: 650px) {
+    section {
+        margin-bottom: 50px;
+    }
+}
