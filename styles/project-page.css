@@ -7,9 +7,7 @@ h2 {
 
 .back-button {
     font-weight: 500;
-    position: absolute;
-    top: 90px;
-    left: 50px;
+    margin-left: 7%;
     cursor: pointer;
 }
 .back-button a {
@@ -27,7 +25,7 @@ h2 {
     display: flex;
     align-items: center;
     column-gap: 4vw;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .video-container {
