@@ -1,0 +1,19 @@
+footer {
+    background-color: rgb(30, 30, 30);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    height: 90px;
+}
+
+footer i {
+    font-size: 28px;
+    margin-bottom: 40px;
+}
+
+footer a {
+    color: white;
+}

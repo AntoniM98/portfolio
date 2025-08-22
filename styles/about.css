@@ -1,0 +1,41 @@
+.about-section {
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.about-textcontainer {
+    flex: 1;
+    margin-right: 50px;
+}
+.about-textcontainer h2 {
+    margin-bottom: 10px;
+}
+.about-textcontainer p {
+    margin-bottom: 18px;
+}
+
+.photo-container {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    overflow: hidden;
+}
+
+.photo {
+    height: 100%;
+    object-fit: cover;
+}
+
+@media (max-width: 1100px) {
+    .about-section {
+        flex-direction: column;
+    }
+    .about-textcontainer {
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+}
