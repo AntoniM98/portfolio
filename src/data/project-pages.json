@@ -18,7 +18,7 @@
       "Ter ondersteuning van de speler kunnen scenario's worden doorlopen op verschillende moeilijkheidsgraden voor een geleidelijke opbouw. Bij een lagere moeilijkheidsgraad zal de speler bijvoorbeeld met minder acties rekening hoeven te houden dan bij een hoger niveau. Daarnaast kan het scenario te allen tijde worden onderbroken als het te heftig wordt en krijgt de speler tips als hij of zij vastloopt."
     ],
     "images": [
-      "./src/assets/vr-agressietraining-images/VR_Agressietraining_Concept.png"
+      "/images/vr-agressietraining-images/VR_Agressietraining_Concept.png"
     ],
     "imageDescriptions": [
       "Concept beschrijving"
@@ -42,13 +42,13 @@
       "Een dergelijk probleem kan worden opgelost door de punten te spenderen die gebruikers hebben verdiend door het eten van minder vlees wat een progressiebalk vult. Als er genoeg punten zij uitgegeven, krijgt de gebruiker toegang tot een nieuw gebied/orgaan. Ook krijgt hij hierbij tips die kunnen helpen bij het verminderen van hun vleesconsumptie. Hiermee wordt de gebruiker ook beloond voor hun eetgedrag. Naarmate de tijd verstrijkt zullen progressiebalken geleidelijk leeglopen, waardoor het lichamelijk probleem ook geleidelijk terugkeert. Gebruikers worden dus aangemoedigd om hun vleesconsumptie minimaal te blijven houden om de gezonde staat van elk orgaan te behouden."
     ],
     "images": [
-      "./src/assets/meat-your-body-images/Meat_Your_Body_Concept.png",
-      "./src/assets/meat-your-body-images/Meat_Your_Body_1.png",
-      "./src/assets/meat-your-body-images/Meat_Your_Body_2.png",
-      "./src/assets/meat-your-body-images/Meat_Your_Body_3.png",
-      "./src/assets/meat-your-body-images/Meat_Your_Body_4.png",
-      "./src/assets/meat-your-body-images/Meat_Your_Body_Ideeën.png",
-      "./src/assets/meat-your-body-images/Meat_Your_Body_Ontwikkeling.png"
+      "/images/meat-your-body-images/Meat_Your_Body_Concept.png",
+      "/images/meat-your-body-images/Meat_Your_Body_1.png",
+      "/images/meat-your-body-images/Meat_Your_Body_2.png",
+      "/images/meat-your-body-images/Meat_Your_Body_3.png",
+      "/images/meat-your-body-images/Meat_Your_Body_4.png",
+      "/images/meat-your-body-images/Meat_Your_Body_Ideeën.png",
+      "/images/meat-your-body-images/Meat_Your_Body_Ontwikkeling.png"
     ],
     "imageDescriptions": [
       "Concept beschrijving",
@@ -83,12 +83,12 @@
       "link": "https://nicoalupin.itch.io/stellar-express-the-last-stop"
     },
     "images": [
-      "./src/assets/stellar-express-images/Stellar_Express_Game_Design_Document.png",
-      "./src/assets/stellar-express-images/Stellar_Express_1.png",
-      "./src/assets/stellar-express-images/Stellar_Express_2.png",
-      "./src/assets/stellar-express-images/Stellar_Express_3.png",
-      "./src/assets/stellar-express-images/Stellar_Express_4.png",
-      "./src/assets/stellar-express-images/DMP_Award.jpg"
+      "/images/stellar-express-images/Stellar_Express_Game_Design_Document.png",
+      "/images/stellar-express-images/Stellar_Express_1.png",
+      "/images/stellar-express-images/Stellar_Express_2.png",
+      "/images/stellar-express-images/Stellar_Express_3.png",
+      "/images/stellar-express-images/Stellar_Express_4.png",
+      "/images/stellar-express-images/DMP_Award.jpg"
     ],
     "imageDescriptions": [
       "Game Design Document",
@@ -116,16 +116,16 @@
       "Deze minigames vormen het educatieve aspect van de app. Het onderwerp van elke minigame is gerelateerd aan de middelbare school en/of het Lingecollege. Op deze manier leert de doelgroep spelenderwijs meer over de school en het voortgezet onderwijs. Wanneer een minigame geklaard is, wordt de bijbehorende tool vrijgespeeld en kan deze gebruikt worden om de schoolpas mooier te maken. De minigame kan altijd weer opnieuw gespeeld worden. Ook kunnen gebruikers hun creatie uploaden op een 'social-wall'. Hier kunnen zij de pasjes van andere scholieren zien en beoordelen op een leaderboard."
     ],
     "images": [
-      "./src/assets/project-cover-images/PassPress.png",
-      "./src/assets/passpress-images/PassPress_1.png",
-      "./src/assets/passpress-images/PassPress_2.png",
-      "./src/assets/passpress-images/PassPress_3.png",
-      "./src/assets/passpress-images/PassPress_4.png",
-      "./src/assets/passpress-images/PassPress_5.png",
-      "./src/assets/passpress-images/PassPress_6.png",
-      "./src/assets/passpress-images/PassPress_7.png",
-      "./src/assets/passpress-images/PassPress_8.png",
-      "./src/assets/passpress-images/PassPress_9.png"
+      "/images/project-cover-images/PassPress.png",
+      "/images/passpress-images/PassPress_1.png",
+      "/images/passpress-images/PassPress_2.png",
+      "/images/passpress-images/PassPress_3.png",
+      "/images/passpress-images/PassPress_4.png",
+      "/images/passpress-images/PassPress_5.png",
+      "/images/passpress-images/PassPress_6.png",
+      "/images/passpress-images/PassPress_7.png",
+      "/images/passpress-images/PassPress_8.png",
+      "/images/passpress-images/PassPress_9.png"
     ],
     "imageDescriptions": [
       "Startscherm",
@@ -158,8 +158,8 @@
       "Als het verhaal uitgespeeld is, krijgt de speler een lijst met aanbevelingen voor boeken op basis van de keuzes die hij heeft gemaakt gedurende het spel. Ook krijgen spelers een persoonlijke ruimte in de bibliotheek waar zij hun favoriete boeken en karakters op kunnen slaan. De speler kan ten alle tijden praten met alle personages om meer te leren over hun boeken."
     ],
     "images": [
-      "./src/assets/the-library-images/The_Library_Game_Design_Document_1.png",
-      "./src/assets/the-library-images/The_Library_Game_Design_Document_2.png"
+      "/images/the-library-images/The_Library_Game_Design_Document_1.png",
+      "/images/the-library-images/The_Library_Game_Design_Document_2.png"
     ],
     "imageDescriptions": [
       "Game Design Document",
@@ -189,7 +189,7 @@
       "link": "https://www.ixperium.nl/serious-games-voor-ixperium-health/"
     },
     "images": [
-      "./src/assets/healthchar-images/HealthChar_Game_Design_Document.png"
+      "/images/healthchar-images/HealthChar_Game_Design_Document.png"
     ],
     "imageDescriptions": [
       "Game Design Document"
@@ -212,12 +212,12 @@
       "Om gerechten op tijd klaar te hebben voor afhaal kan de gebruiker zelf aangeven waar en wanneer hij zijn bestelling wil afhalen. Dit kan op de afrekenpagina, maar ook meteen al op de homepage. Hier kan de gebruiker zijn reisgegevens invullen, zoals het vertrek- en aankomststation en de tijd van vertrek. Hierdoor kan worden bepaald in welke trein de reiziger zich bevindt, waardoor de bestelling bij aankomst van de trein precies op tijd klaar is om afgehaald te worden, ook bij eventuele vertraging."
     ],
     "images": [
-      "./src/assets/foodontrack-images/FoodOnTrack_Homepage_Wireframe.png",
-      "./src/assets/foodontrack-images/FoodOnTrack_Homepage.png",
-      "./src/assets/foodontrack-images/FoodOnTrack_Productinformatie_Wireframe.png",
-      "./src/assets/foodontrack-images/FoodOnTrack_Productinformatie.png",
-      "./src/assets/foodontrack-images/FoodOnTrack_Afreken_Wireframe.png",
-      "./src/assets/foodontrack-images/FoodOnTrack_Afreken.png"
+      "/images/foodontrack-images/FoodOnTrack_Homepage_Wireframe.png",
+      "/images/foodontrack-images/FoodOnTrack_Homepage.png",
+      "/images/foodontrack-images/FoodOnTrack_Productinformatie_Wireframe.png",
+      "/images/foodontrack-images/FoodOnTrack_Productinformatie.png",
+      "/images/foodontrack-images/FoodOnTrack_Afreken_Wireframe.png",
+      "/images/foodontrack-images/FoodOnTrack_Afreken.png"
     ],
     "imageDescriptions": [
       "Wireframe homepage",
