@@ -1,0 +1,27 @@
+.contact-links-container {
+  flex: 1;
+}
+
+.contact-header {
+  margin-bottom: 10px;
+}
+
+.contact-description {
+  margin-bottom: 20px;
+}
+
+.social-media-link {
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: color 0.15s;
+}
+.social-media-link:hover {
+  color: var(--orange-color);
+}
+
+.social-media-link-icon {
+  font-size: 27px;
+  margin-right: 6px;
+}

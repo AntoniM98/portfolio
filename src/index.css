@@ -1,0 +1,50 @@
+:root {
+  --orange-color: #FFA300;
+}
+
+* {
+  font-family: Poppins, Arial, sans-serif;
+  margin: 0;
+}
+
+html {
+  scroll-padding: 5em;
+}
+
+body {
+  padding-top: 8em;
+}
+
+h1, h2 {
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+section {
+  padding-left: 15%;
+  padding-right: 15%;
+  margin-bottom: 4em;
+}
+
+a {
+  color: rgb(30, 30, 30);
+  text-decoration: none;
+  transition: color 0.15s;
+} a:hover {
+  color: #ffa300;
+}
+
+@media (max-width: 650px) {
+  body {
+    padding-top: 7em;
+  }
+
+  section {
+    margin-bottom: 3em;
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+}

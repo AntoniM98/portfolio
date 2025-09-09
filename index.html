@@ -1,84 +1,18 @@
-<!DOCTYPE html>
-<html lang="nl">
-	<head>
-		<title>Antoni Magendans | Portfolio</title>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
-		<!--CSS-->
-		<link rel="stylesheet" href="styles/general.css">
-		<link rel="stylesheet" href="styles/header.css">
-		<link rel="stylesheet" href="styles/projects.css">
-		<link rel="stylesheet" href="styles/about.css"> 
-		<link rel="stylesheet" href="styles/contact.css"> 
-		<link rel="stylesheet" href="styles/footer.css"> 
-
-		<!--Fonts-->
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-		<script src="https://kit.fontawesome.com/4738a6be8e.js" crossorigin="anonymous"></script>
-	</head>
-	<body>
-		<header class="js-header"></header>
-		
-		<main>
-			<section id="projects" class="project-grid js-project-grid"></section> 
-
-			<section id="about" class="about-section">
-				<div class="about-textcontainer">
-					<h2>Wie ben ik?</h2>
-					<p>Hoi, mijn naam is Antoni Magendans. In 2018 begon ik de opleiding Communication & Multimedia Design met een specialisatie in Experience Design aan de HAN University of Applied Sciences in Arnhem. Deze opleiding heb ik in 2023 afgerond en hiermee mijn Bachelor of Science behaald.</p>
-					<p>Gedurende mijn opleiding heb ik gewerkt aan diverse projecten gericht op het ontwerpen van interactieve oplossingen voor problemen/vraagstukken voor zowel fictieve casussen als voor daadwerkelijke opdrachtgevers. Binnen mijn ontwerpprojecten doorloop ik iteratieve processen volgens Design Thinking om elk ontwerp zo goed mogelijk aan te laten sluiten op de gebruiker en het ontwerpdoel.</p>
-					<p>Ik haal met name uit prototyping veel energie. Hierdoor heb ik ervaring met front-end development en beheers ik over diverse prototyping tools als Adobe XD of Figma, maar ook programmeertalen als HTML, CSS, JavaScript en C# (binnen de Unity game engine).</p>
-				</div>
-				<div class="photo-container">
-					<img class="photo" src="images/Foto.png">
-				</div>
-			</section>
-
-			<section id="contact" class="contact-section">
-				<div class="contact-content">
-					<div class="text-container">
-						<h2 class="contact-header">Contact</h2>
-						<p class="contact-description">Meer weten? Neem gerust contact met mij op via een van de onderstaande kanalen of stuur mij hier een berichtje.</p>
-						<div class="social-media">
-							<a href="mailto:antoni.magendans@hotmail.com">
-								<div class="social-media-icon"><i class="fa-solid fa-envelope"></i></div>
-								antoni.magendans@hotmail.com
-							</a>
-						</div>
-						<div class="social-media">
-							<a href="https://www.linkedin.com/in/antoni-magendans/" target="_blank">
-								<div class="social-media-icon"><i class="fa-brands fa-linkedin"></i></div>
-								Antoni Magendans
-							</a>
-						</div>
-					</div>
-
-					<form class="form-container" action="https://api.web3forms.com/submit" method="POST">
-						<input type="hidden" name="access_key" value="c1bc80d9-0835-4170-8fa8-2e620c1a671e">
-						<div class="input-container">
-							<label for="name">Naam</label>
-							<input type="text" id="name" name="name" placeholder="Naam" autocomplete="off" required>
-						</div>
-						<div class="input-container">
-							<label for="email">E-mailadres</label>
-							<input type="email" id="email" name="email" placeholder="E-mailadres" autocomplete="off" required>
-						</div>    
-						<div class="input-container">
-							<label for="message">Bericht</label>
-							<textarea id="message" name="message" rows="6" placeholder="Type hier je bericht" autocomplete="off" required></textarea>    
-						</div>
-						<button class="submit-button" type="submit">Verzenden</button>
-					</form>
-				</div>
-			</section>
-		</main>
-
-		<footer class="js-footer"></footer>
-
-		<script type="module" src="scripts/indexContent.js"></script>	
-	</body>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
 </html>

@@ -1,0 +1,8 @@
+.context-section {
+	background-color: rgb(240, 240, 240);
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.context-section p {
+	margin-bottom: 1em;
+}
